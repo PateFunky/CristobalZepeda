@@ -4,7 +4,7 @@ Soy de Santiago de Chile, estudie Ingenieria civil industrial y alrededor de dos
 🙌 Skills:
 
 ``` 
-# Front-end:
+Front-end:
 - React
 - Redux
 - Typescript
@@ -13,7 +13,7 @@ Soy de Santiago de Chile, estudie Ingenieria civil industrial y alrededor de dos
 - CSS
 - Ant Design
 
-#Back-end:
+Back-end:
 - nodeJS
 - ExpressJS
 - Supabase.io
