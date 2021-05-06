@@ -17,6 +17,7 @@ Planeo seguir aprendiendo sobre el desarrollo de aplicaciones móviles mediante 
 · ExpressJS
 · Supabase.io
 · PostgreSQL
+· SQL server
 ```
 
 ✉ Email : cristobal.azt@gmail.com
