@@ -16,6 +16,6 @@ Planeo seguir aprendiendo sobre el desarrollo de aplicaciones móviles mediante 
 · ExpressJS
 · Supabase.io
 · PostgreSQL
-	```
+```
 ✉ Email : cristobal.azt@gmail.com
 💻 LinkedIn : https://www.linkedin.com/in/Cristobal-Zepeda/
