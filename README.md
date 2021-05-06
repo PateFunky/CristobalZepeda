@@ -1,4 +1,4 @@
-# Hola, mi nombre es Cristobal !
+# Hola, mi nombre es Cristóbal !
 Soy de Santiago de Chile, estudie Ingenieria civil industrial y alrededor de dos años estuve enfocado en analisis de datos, actualmente estoy profundizando el mundo tech, desarrollo de aplicaciones web entre otros...
 
 🙌 Skills:
