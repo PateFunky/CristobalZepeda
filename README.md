@@ -23,4 +23,7 @@ Back-end:
 Tambien tengo en mente seguir aprendiendo desarrollo de aplicaciones moviles con React Native para complementar mis conocimientos actuales.
 
 Linkedin: https://www.linkedin.com/in/Cristobal-Zepeda/
+
+
+
 Email: cristobal.azt@gmail.com
